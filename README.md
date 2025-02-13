@@ -2,7 +2,7 @@
 
 **Dataset Information**
 
-The Sample - Superstore.xls excel sheet contains 3 tabs namely Orders, People and Returns.
+The Superstore.xls excel sheet contains 3 tabs namely Orders, People and Returns.
 
 A) The Orders tab contains 9,994 rows and 21 columns namely.
 
@@ -63,4 +63,5 @@ Bubble chart display Sales by sub-category. Bubbles are colored by category. Usi
 A continuous line chart display the Sales trend by Month-Year. X-axis display month and year in the format MMM YY. For example, Mar 22 [Year 2022]. Hide the axis titles only. Tooltip display only Month-Year, along with the sales value in $ in Thousands (K). Using Order Date as a Date Range filter.
 
 **Outcome**
+
 Analyzing sales data using Tableau empowers decision-makers to boost revenue, optimize operations, and deliver better customer experiences while aligning strategies with real-world data insights.
