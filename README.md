@@ -7,5 +7,7 @@ This project is designed to help businesses understand their sales data better, 
 **Features**
 
 Interactive Dashboards: Visualize sales data across various dimensions such as region, category, and time.
+
 Sales Performance Analysis: Identify top-performing products, regions, and sales periods.
+
 Customer Behavior Insights: Analyze customer purchase patterns and preferences.
